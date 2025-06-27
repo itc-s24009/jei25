@@ -5,7 +5,7 @@ public class D51Q17 {
            System.out.println("over 4");
        }else if(x < 4){
            System.out.println("over 4");
-       }elsee{
+       }else{
            System.out.println("just 4");
        }
     }
